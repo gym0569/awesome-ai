@@ -4,7 +4,7 @@
 
 The main aim of this repository is to provide you with the first hand knowledge and understanding of machine learning and data sciences by walking you through different programmes and real life problems.
 
-##Algoriithsm Covered
+##Algorithms Covered
 	1. Linear Regression
 	2. Logistic Regression
 	3. Decision Tree
