@@ -1,0 +1,2 @@
+Graduate->0
+Not Graduate->1
