@@ -1,0 +1,5 @@
+Inside->4
+FR2->2
+Corner->0
+CulDSac->1
+FR3->3

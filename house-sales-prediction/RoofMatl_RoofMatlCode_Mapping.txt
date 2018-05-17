@@ -1,0 +1,8 @@
+CompShg->1
+WdShngl->7
+Metal->3
+WdShake->6
+Membran->2
+Tar&Grv->5
+Roll->4
+ClyTile->0

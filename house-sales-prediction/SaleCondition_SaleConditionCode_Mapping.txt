@@ -1,0 +1,6 @@
+Normal->4
+Abnorml->0
+Partial->5
+AdjLand->1
+Alloca->2
+Family->3

@@ -1,0 +1,6 @@
+Attchd->1
+Detchd->5
+BuiltIn->3
+CarPort->4
+Basment->2
+2Types->0

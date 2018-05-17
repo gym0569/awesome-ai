@@ -1,0 +1,9 @@
+Norm->2
+Feedr->1
+PosN->4
+Artery->0
+RRAe->5
+RRNn->8
+RRAn->6
+PosA->3
+RRNe->7

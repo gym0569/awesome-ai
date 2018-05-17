@@ -1,0 +1,6 @@
+PConc->2
+CBlock->1
+BrkTil->0
+Wood->5
+Slab->3
+Stone->4
