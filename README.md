@@ -13,6 +13,5 @@ The main aim of the repo is to provide you with the first hand knowledge and und
   	6. Matplotlib
   	7. A lot of enthusiasm
 
-<br><br><br>
-
+<br>
 *Note: Feel free to roam around and fork scripts to gain quick insights. Open to comments and suggestion. If you like the repository please like and share among your friends.
