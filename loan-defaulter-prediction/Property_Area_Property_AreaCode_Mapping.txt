@@ -1,3 +1,0 @@
-Urban->2
-Rural->0
-Semiurban->1
