@@ -1,2 +1,0 @@
-AllPub->0
-NoSeWa->1

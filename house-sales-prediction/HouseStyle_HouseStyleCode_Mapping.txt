@@ -1,8 +1,0 @@
-2Story->5
-1Story->2
-1.5Fin->0
-1.5Unf->1
-SFoyer->6
-SLvl->7
-2.5Unf->4
-2.5Fin->3

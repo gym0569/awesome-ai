@@ -1,9 +1,0 @@
-WD->8
-New->6
-COD->0
-ConLD->3
-ConLI->4
-CWD->1
-ConLw->5
-Con->2
-Oth->7

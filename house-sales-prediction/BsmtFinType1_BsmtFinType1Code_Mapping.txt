@@ -1,6 +1,0 @@
-GLQ->2
-ALQ->0
-Unf->5
-Rec->4
-BLQ->1
-LwQ->3

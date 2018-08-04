@@ -1,4 +1,0 @@
-BrkFace->1
-None->2
-Stone->3
-BrkCmn->0

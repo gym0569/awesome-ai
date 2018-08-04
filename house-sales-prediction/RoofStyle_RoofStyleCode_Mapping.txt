@@ -1,6 +1,0 @@
-Gable->1
-Hip->3
-Gambrel->2
-Mansard->4
-Flat->0
-Shed->5

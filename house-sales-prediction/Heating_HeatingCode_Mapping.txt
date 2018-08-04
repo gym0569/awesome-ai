@@ -1,6 +1,0 @@
-GasA->1
-GasW->2
-Grav->3
-Wall->5
-OthW->4
-Floor->0

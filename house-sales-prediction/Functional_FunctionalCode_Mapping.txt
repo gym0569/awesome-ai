@@ -1,7 +1,0 @@
-Typ->6
-Min1->2
-Maj1->0
-Min2->3
-Mod->4
-Maj2->1
-Sev->5

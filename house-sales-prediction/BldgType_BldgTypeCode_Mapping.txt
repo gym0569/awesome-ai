@@ -1,5 +1,0 @@
-1Fam->0
-2fmCon->1
-Duplex->2
-TwnhsE->4
-Twnhs->3
