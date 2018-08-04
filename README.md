@@ -2,16 +2,10 @@
 
 ## <b>Machine Learning and Data Sciences </b>
 
-The main work of this repository is to provide you with the first hand knowledge and understanding of <b>machine learning</b> and data engineering concepts through multiple examples.
-
-## Algorithms Covered
-	1. Linear Regression
-	2. Logistic Regression
-	3. Decision Tree
-	4. Random Forests, ... and many more.
+The main aim of the repo is to provide you with the first hand knowledge and understanding of <b>machine learning</b> and data engineering concepts through multiple examples. The more you do, the more you learn. The way things are implemented in the examples are not the only or the best way. Explore your options and adapt to the one which suits you the best.
 
 ## Prerequisites
-	1. Python 3.6
+	1. Python 3.x
 	2. Jupyter Notebook / Spyder IDE
 	3. Scikit Learn
   	4. Pandas
@@ -22,4 +16,3 @@ The main work of this repository is to provide you with the first hand knowledge
 <br><br><br>
 
 *Note: Feel free to roam around and fork scripts to gain quick insights. Open to comments and suggestion. If you like the repository please like and share among your friends.
-Please provide constructive patches for advancement of knowledge.
