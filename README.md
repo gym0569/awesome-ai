@@ -1,17 +1,24 @@
-# super-machine-learning
+# awesome-ai
+---
 
-## <b>Machine Learning and Data Sciences </b>
+## <b>Artificial Intelligence - Machine Learning - Deep LeanringData Sciences </b>
 
-The main aim of the repo is to provide you with the first hand knowledge and understanding of <b>machine learning</b> and data engineering concepts through multiple examples. The more you do, the more you learn. The way things are implemented in the examples are not the only or the best way. Explore your options and adapt to the one which suits you the best.
+The main aim of the repo is to provide you with the first hand knowledge and understanding of <b> machine learning (including deep learning </b> through multiple examples. The way things are implemented in the examples are not the only or the best way. Explore your options and adapt to the one which suits you the best. I have used Python 3 as my primary language for implementing most of the models.
 
-## Prerequisites
-	1. Python 3.x
-	2. Jupyter Notebook / Spyder IDE
-	3. Scikit Learn
-  	4. Pandas
-  	5. NumPy
-  	6. Matplotlib
-  	7. A lot of enthusiasm
+This repo also contains many solutions to the problems from **Kaggle** competitions.
 
-<br>
-*Note: Feel free to roam around and fork scripts to gain quick insights. Open to comments and suggestion. If you like the repository please like and share among your friends.
+<b> The more you do, the more you learn. </b>
+---
+
+### Packages / Libraries
+* Tensorflow
+* Keras
+* Pandas
+* NumPy
+* Scikit-Learn
+* NLTK
+* Matplotlib
+* Jupyter Notebook ...
+---
+
+**author: Kumar Nityan Suman**
