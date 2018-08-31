@@ -20,5 +20,3 @@ This repo also contains many solutions to the problems from **Kaggle** competiti
 * Matplotlib
 * Jupyter Notebook ...
 ---
-
-**author: Kumar Nityan Suman**
