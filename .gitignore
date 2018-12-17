@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.pyc
+*.hdf5
 
 # MacOS Files and Folders
 .DS_Store
