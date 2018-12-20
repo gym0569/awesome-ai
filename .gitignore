@@ -8,6 +8,8 @@ __pycache__/
 
 # Data folders in any directory
 */data/*
+*/train/*
+*/test/*
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
