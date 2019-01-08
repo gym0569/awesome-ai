@@ -9,5 +9,8 @@ __pycache__/
 # Data folders in any directory
 */data/*
 
+# ignore csv files
+*.csv
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
