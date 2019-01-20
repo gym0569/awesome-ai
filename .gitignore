@@ -6,11 +6,23 @@ __pycache__/
 # MacOS Files and Folders
 .DS_Store
 
+# vs code files
+.vscode
+
 # Data folders in any directory
 */data/*
 
-# ignore csv files
+# ignore csv, tsv files
 *.csv
+*.tsv
+
+# ignore image files
+*.jpg
+*.jpeg
+*.png
+
+# ignore text files
+*.txt
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
