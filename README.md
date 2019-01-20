@@ -8,7 +8,8 @@ Welcome to my GitHub repo.
 I am a Data Scientist and I code in Python. Here you will find some Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision models I developed.
 
 Data for models available are availabe on request, Drop me a mail or connect with me on [linkedin](https://linkedin.com/in/kumar-nityan-suman/)
-Tensorflow version used in models: tensorflow==1.12.0
-Tensorflow's implementation of Keras is used.
+
++ Tensorflow version used in models: tensorflow==1.12.0
++ Tensorflow's implementation of Keras is used.
 
 <b> The more you do, the more you learn. </b>
